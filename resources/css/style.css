@@ -3,11 +3,23 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+    /* HEADINGs */
 .header--main{
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
+.header--secondary{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.header--sub-header{
+    color:gray;
+    font-size: 21px;
+
+}
+    /* LINKS */
 .link--cta{
     font-size: 16px;
     color: aquamarine;
